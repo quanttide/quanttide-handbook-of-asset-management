@@ -54,4 +54,5 @@
 脚本资产是以文件为单位的工具脚本。
 
 标准脚本资产包括：
-- `<script_name>`: 工具脚本
+- `<script_name>.sh`: Shell 脚本
+- `<script_name>.py`: Python 脚本

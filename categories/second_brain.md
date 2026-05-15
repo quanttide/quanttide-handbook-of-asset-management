@@ -22,7 +22,7 @@
 
 | | 事件类 | 语义类 | 自我类 |
 |:----|:-------|:-------|:-------|
-| 过去 | Archive 工作归档 | Report 工作报告 | Story 品牌故事 |
+| 过去 | Report 工作报告 | Library 工作参考 | Story 品牌故事 |
 | 现在 | Journal 工作日志 | Profile 工作简介 | Brochure 宣传册 |
 | 未来 | Roadmap 工作蓝图 | Context 工作语境 | Vision 工作愿景 |
 
@@ -45,6 +45,10 @@
 | 宪法 | Bylaw 工作章程 | Specification 工程标准 | Toolkit 工具箱 |
 | 法律 | Handbook 工作手册 | Gallery 工作案例 | Platform 平台 |
 | 法理 | Tutorial 工作教程 | Essay 工作札记 | Example 示例程序 |
+
+### 工作归档
+
+工作归档（Archive）用于备份陈述型记忆和程序型记忆两类九宫格中所有格子的过时文件，确保组织知识的持久化存储与可追溯性。
 
 ## 资产工作流
 

@@ -13,3 +13,24 @@
 ## 工作平台`platform`
 
 工作平台是承载组织运营、协同办公和业务流转的数字空间。
+
+## 标准仓库命名
+
+代码资产命名遵循社区习惯。
+
+文档资产命名格式为`quanttide-<asset>-of-<domain>`，如量潮数字资产章程`quanttide-bylaw-of-asset-management`。
+
+## 标准租户命名
+
+社区：
+- `quanttide`：量潮
+- `quanttide-archive`或`qtarchive`：量潮归档
+
+组织：
+- `quanttide-founder`或`qtfounder`：量潮创始人
+- `quanttide-tech`或`qttech`：量潮科技
+- `quanttide-alliance`或`qtalliance`：量潮创新联盟
+
+业务：
+- `qtdata`：量潮数据
+- `qtclass`：量潮课堂

@@ -24,7 +24,7 @@
 
 || | 事件类 | 语义类 | 自我类 |
 ||:----|:-------|:-------|:-------|
-|| 过去 | Report 工作报告 | Library 工作参考 | Story 品牌故事 |
+|| 过去 | Report 工作报告 | Library 工作参考 | History 工作历史 |
 || 现在 | Journal 工作日志 | Profile 工作简介 | Brochure 宣传册 |
 || 未来 | Roadmap 工作蓝图 | Insight 工作洞察 | Intention 工作意图 |
 

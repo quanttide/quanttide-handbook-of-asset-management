@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-06-21
+
+### Changed
+- 九宫格定义优化：Future语义类 Context→Insight（工作洞察），Future自我类 Vision→Intention（工作意图）
+- Context 定位为九宫格默认入口
+- 开头说明第二大脑由20种标准资产构成
+
 ## [0.1.1] - 2026-05-15
 
 ### Fixed
